@@ -1,0 +1,50 @@
+Java相关书籍推荐：
+   《Java核心技术》
+   《编写高质量代码：改善Java程序的151个建议》
+   《你必须知道的261个Java语言问题》
+   《Java程序员修炼之道》
+   《Java解惑》    
+   《Head First Java中文版》
+   《Head First设计模式中文版》
+   《Java编程思想》
+   《Effective Java中文版》
+
+   《轻量级Java EE企业应用实战》
+   《Spring实战》
+   《精通Spring》
+   《Spring Boot 实战》
+   《Hibernate实战》
+
+   《企业应用架构模式》
+   《软件架构：组织原则与模式》
+   《领域驱动设计和模式实战》
+   《实现领域驱动设计》
+   《面向对象系统分析与设计》
+   《Java与模式》
+   《J2EE核心模式》
+   《面向模式的软件架构》
+   《Pojos in action》
+   
+   《领域驱动设计》
+
+Java相关网站推荐：
+    iteye.com
+   
+    51cto.com
+    zhihu.com
+    oschina.net
+    csdn.net
+   
+    blogjava.net
+   
+    cnblogs.com
+
+    github.com
+
+   
+    stackoverflow.com
+
+   
+    
+   
+
